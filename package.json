@@ -8,6 +8,7 @@
     "email": "me@snazzah.com",
     "url": "https://snazzah.com/"
   },
+  "version": "1.0.0",
   "workspaces": [
     "apps/bot",
     "apps/dashboard",
@@ -38,7 +39,7 @@
     "dotenv-cli": "^7.4.1",
     "eslint": "^8.20.0",
     "eslint-config-snazzah": "^1.1.0",
-    "prisma": "^5.12.1",
+    "prisma": "6.7.0",
     "rimraf": "^3.0.2",
     "tsx": "^4.19.4"
   },

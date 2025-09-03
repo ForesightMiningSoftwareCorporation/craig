@@ -1,4 +1,4 @@
-import { PrismaPromise } from '@prisma/client';
+import { PrismaPromise } from '../../../generated/prisma/client';
 import axios from 'axios';
 import config from 'config';
 import { readFile, writeFile } from 'node:fs/promises';

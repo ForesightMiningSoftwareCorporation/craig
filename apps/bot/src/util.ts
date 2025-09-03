@@ -1,4 +1,4 @@
-import { Ban, Guild } from '@prisma/client';
+import { Ban, Guild } from '../../generated/prisma/client';
 import axios from 'axios';
 import { stripIndents, stripIndentTransformer, TemplateTag } from 'common-tags';
 import { CommandContext, DexareCommand } from 'dexare';

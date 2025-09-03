@@ -1,4 +1,4 @@
-import { AutoRecord } from '@prisma/client';
+import { AutoRecord } from '../../../generated/prisma/client';
 import { stripIndents } from 'common-tags';
 import { DexareClient, DexareModule } from 'dexare';
 import Eris from 'eris';

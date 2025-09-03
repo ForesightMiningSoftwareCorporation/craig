@@ -1,4 +1,4 @@
-import type { Patreon } from '@prisma/client';
+import type { Patreon } from '../../generated/prisma/client';
 import clsx from 'clsx';
 import { GetServerSideProps } from 'next';
 import Head from 'next/head';
